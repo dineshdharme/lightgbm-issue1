@@ -26,7 +26,7 @@ params = {
     'boosting_type': 'rf',
     'objective': 'binary',
     'metric': 'binary_logloss',
-    'num_leaves': 20000,
+    'num_leaves': 2000000,
     'max_depth':1,
     'learning_rate': 0.05,
     'feature_fraction': 0.9,
