@@ -1,0 +1,12 @@
+# idea
+.idea
+*.iml
+
+# building
+target
+build
+
+#models and data
+/data/
+/trained_model/
+
